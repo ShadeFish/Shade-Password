@@ -1,0 +1,149 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fz6nw/im+bFe7vGjkKaZfmDGsJbpleG7Qbsz0NA9RxXaarM32JOeeLyUdknI99ou0jHqBYiKVfL9NEDoYqNBTw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Shade\\source\\repos\\ShadePass\\ShadePass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shade\\.nuget\\packages\\colorful.console\\1.2.15\\colorful.console.1.2.15.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\consoletables\\2.4.2\\consoletables.2.4.2.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.any.system.collections\\4.3.0\\runtime.any.system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.any.system.diagnostics.tracing\\4.3.0\\runtime.any.system.diagnostics.tracing.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.any.system.globalization\\4.3.0\\runtime.any.system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.any.system.io\\4.3.0\\runtime.any.system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.any.system.reflection\\4.3.0\\runtime.any.system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.any.system.reflection.extensions\\4.3.0\\runtime.any.system.reflection.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.any.system.reflection.primitives\\4.3.0\\runtime.any.system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.any.system.resources.resourcemanager\\4.3.0\\runtime.any.system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.any.system.runtime\\4.3.0\\runtime.any.system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.any.system.runtime.handles\\4.3.0\\runtime.any.system.runtime.handles.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.any.system.runtime.interopservices\\4.3.0\\runtime.any.system.runtime.interopservices.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.any.system.text.encoding\\4.3.0\\runtime.any.system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.any.system.text.encoding.extensions\\4.3.0\\runtime.any.system.text.encoding.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.any.system.threading.tasks\\4.3.0\\runtime.any.system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.win.system.console\\4.3.0\\runtime.win.system.console.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.win.system.diagnostics.debug\\4.3.0\\runtime.win.system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.win.system.io.filesystem\\4.3.0\\runtime.win.system.io.filesystem.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\runtime.win.system.runtime.extensions\\4.3.0\\runtime.win.system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.collections.concurrent\\4.0.12\\system.collections.concurrent.4.0.12.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.console\\4.0.0\\system.console.4.0.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.diagnostics.tracing\\4.1.0\\system.diagnostics.tracing.4.1.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.dynamic.runtime\\4.0.11\\system.dynamic.runtime.4.0.11.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.globalization\\4.0.11\\system.globalization.4.0.11.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.io.filesystem\\4.0.1\\system.io.filesystem.4.0.1.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.io.filesystem.primitives\\4.0.1\\system.io.filesystem.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.linq\\4.1.0\\system.linq.4.1.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.linq.expressions\\4.1.0\\system.linq.expressions.4.1.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.objectmodel\\4.0.12\\system.objectmodel.4.0.12.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.private.uri\\4.3.0\\system.private.uri.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.reflection.emit\\4.0.1\\system.reflection.emit.4.0.1.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.0.1\\system.reflection.emit.ilgeneration.4.0.1.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.reflection.emit.lightweight\\4.0.1\\system.reflection.emit.lightweight.4.0.1.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.reflection.extensions\\4.0.1\\system.reflection.extensions.4.0.1.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.resources.resourcemanager\\4.0.1\\system.resources.resourcemanager.4.0.1.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.runtime.extensions\\4.1.0\\system.runtime.extensions.4.1.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.runtime.handles\\4.0.1\\system.runtime.handles.4.0.1.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.runtime.interopservices\\4.1.0\\system.runtime.interopservices.4.1.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.text.regularexpressions\\4.1.0\\system.text.regularexpressions.4.1.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.threading\\4.0.11\\system.threading.4.0.11.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.threading.overlapped\\4.3.0\\system.threading.overlapped.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.3\\microsoft.netcore.app.runtime.win-x86.6.0.3.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.3\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.3.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.3\\microsoft.aspnetcore.app.runtime.win-x86.6.0.3.nupkg.sha512",
+    "C:\\Users\\Shade\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.3\\microsoft.netcore.app.crossgen2.win-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Wykryto obniżenie wersji pakietu: System.Runtime.InteropServices z 4.3.0 na 4.1.0. Aby wybrać inną wersję, odwołaj się do pakietu bezpośrednio z projektu. \r\n ShadePass -> Colorful.Console 1.2.15 -> System.Console 4.0.0 -> runtime.win.System.Console 4.3.0 -> System.Runtime.InteropServices (>= 4.3.0) \r\n ShadePass -> Colorful.Console 1.2.15 -> System.Runtime.InteropServices (>= 4.1.0)",
+      "libraryId": "System.Runtime.InteropServices",
+      "targetGraphs": [
+        "net6.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Wykryto obniżenie wersji pakietu: System.Collections z 4.3.0 na 4.0.11. Aby wybrać inną wersję, odwołaj się do pakietu bezpośrednio z projektu. \r\n ShadePass -> Colorful.Console 1.2.15 -> System.IO.FileSystem 4.0.1 -> runtime.win.System.IO.FileSystem 4.3.0 -> System.Collections (>= 4.3.0) \r\n ShadePass -> Colorful.Console 1.2.15 -> System.Collections (>= 4.0.11)",
+      "libraryId": "System.Collections",
+      "targetGraphs": [
+        "net6.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Wykryto obniżenie wersji pakietu: System.Diagnostics.Debug z 4.3.0 na 4.0.11. Aby wybrać inną wersję, odwołaj się do pakietu bezpośrednio z projektu. \r\n ShadePass -> Colorful.Console 1.2.15 -> System.IO.FileSystem 4.0.1 -> runtime.win.System.IO.FileSystem 4.3.0 -> System.Diagnostics.Debug (>= 4.3.0) \r\n ShadePass -> Colorful.Console 1.2.15 -> System.Diagnostics.Debug (>= 4.0.11)",
+      "libraryId": "System.Diagnostics.Debug",
+      "targetGraphs": [
+        "net6.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Wykryto obniżenie wersji pakietu: System.Runtime.Extensions z 4.3.0 na 4.1.0. Aby wybrać inną wersję, odwołaj się do pakietu bezpośrednio z projektu. \r\n ShadePass -> Colorful.Console 1.2.15 -> System.IO.FileSystem 4.0.1 -> runtime.win.System.IO.FileSystem 4.3.0 -> System.Runtime.Extensions (>= 4.3.0) \r\n ShadePass -> Colorful.Console 1.2.15 -> System.Runtime.Extensions (>= 4.1.0)",
+      "libraryId": "System.Runtime.Extensions",
+      "targetGraphs": [
+        "net6.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Wykryto obniżenie wersji pakietu: System.Runtime.Handles z 4.3.0 na 4.0.1. Aby wybrać inną wersję, odwołaj się do pakietu bezpośrednio z projektu. \r\n ShadePass -> Colorful.Console 1.2.15 -> System.IO.FileSystem 4.0.1 -> runtime.win.System.IO.FileSystem 4.3.0 -> System.Runtime.Handles (>= 4.3.0) \r\n ShadePass -> Colorful.Console 1.2.15 -> System.IO.FileSystem 4.0.1 -> System.Runtime.Handles (>= 4.0.1)",
+      "libraryId": "System.Runtime.Handles",
+      "targetGraphs": [
+        "net6.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Wykryto obniżenie wersji pakietu: System.Runtime.InteropServices z 4.3.0 na 4.1.0. Aby wybrać inną wersję, odwołaj się do pakietu bezpośrednio z projektu. \r\n ShadePass -> Colorful.Console 1.2.15 -> System.IO.FileSystem 4.0.1 -> runtime.win.System.IO.FileSystem 4.3.0 -> System.Runtime.InteropServices (>= 4.3.0) \r\n ShadePass -> Colorful.Console 1.2.15 -> System.Runtime.InteropServices (>= 4.1.0)",
+      "libraryId": "System.Runtime.InteropServices",
+      "targetGraphs": [
+        "net6.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Wykryto obniżenie wersji pakietu: System.Globalization z 4.3.0 na 4.0.11. Aby wybrać inną wersję, odwołaj się do pakietu bezpośrednio z projektu. \r\n ShadePass -> Colorful.Console 1.2.15 -> System.Console 4.0.0 -> runtime.win.System.Console 4.3.0 -> System.Resources.ResourceManager 4.3.0 -> System.Globalization (>= 4.3.0) \r\n ShadePass -> Colorful.Console 1.2.15 -> System.Globalization (>= 4.0.11)",
+      "libraryId": "System.Globalization",
+      "targetGraphs": [
+        "net6.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Wykryto obniżenie wersji pakietu: System.Globalization z 4.3.0 na 4.0.11. Aby wybrać inną wersję, odwołaj się do pakietu bezpośrednio z projektu. \r\n ShadePass -> Colorful.Console 1.2.15 -> System.IO.FileSystem 4.0.1 -> runtime.win.System.IO.FileSystem 4.3.0 -> System.Resources.ResourceManager 4.3.0 -> System.Globalization (>= 4.3.0) \r\n ShadePass -> Colorful.Console 1.2.15 -> System.Globalization (>= 4.0.11)",
+      "libraryId": "System.Globalization",
+      "targetGraphs": [
+        "net6.0/win-x86"
+      ]
+    }
+  ]
+}
